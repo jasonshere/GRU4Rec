@@ -1,6 +1,6 @@
 #theanorc
 [global]
-device=cuda0
+device=gpu0
 floatX=float32
 allow_gc=False
 mode=FAST_RUN
